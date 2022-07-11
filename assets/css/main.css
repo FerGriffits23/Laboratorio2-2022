@@ -1,0 +1,36 @@
+body{
+    background: palegoldenrod;
+}
+
+html{
+    background-color: #b3b3b3;
+    background:radial-gradient(rgba(179,255,255,0.5),rgba(255,255,255,0.5),
+    rgba(0,0,0,0.3));
+    text-align:center;
+}
+table{
+    border-collapse: collapse;
+    width: 50%;
+    margin: 50px  auto;
+    background-color: burlywood;
+}
+table, th,td{
+  border: 2px solid black;
+  padding: 5px;
+}
+#nameDiv{
+    margin-top: 50px;
+}
+
+th{
+    font-size: 20px;
+    font-weight: 200;
+    font-family: #004d00;
+}
+td{
+    font-size: 35px;
+    color: crimson;
+font-weight: 400;
+font-family: Georgia, 'Times New Roman', Times, serif;
+    
+};
